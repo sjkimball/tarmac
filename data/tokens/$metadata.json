@@ -26,7 +26,7 @@
     "comp/tag",
     "comp/text",
     "semantic/dark",
-    "red_dog_moped/light",
-    "red_dog_moped/dark"
+    "apn/light",
+    "apn/dark"
   ]
 }
