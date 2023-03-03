@@ -27,9 +27,7 @@
       "core/line-height": "source",
       "core/paragraph-spacing": "source",
       "core/text-case": "source",
-      "semantic/light": "source",
-      "apn/light": "disabled",
-      "apn/dark": "disabled"
+      "semantic/light": "source"
     },
     "$figmaStyleReferences": {}
   },
