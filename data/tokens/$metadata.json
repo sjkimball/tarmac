@@ -1,0 +1,32 @@
+{
+  "tokenSetOrder": [
+    "core/border",
+    "core/color",
+    "core/dimension",
+    "core/font-family",
+    "core/font-nRatio",
+    "core/font-scale",
+    "core/font-size",
+    "core/font-weight",
+    "core/letter-spacing",
+    "core/line-height",
+    "core/paragraph-spacing",
+    "core/text-case",
+    "semantic/light",
+    "comp/alert",
+    "comp/badge",
+    "comp/button",
+    "comp/cell",
+    "comp/icon-button",
+    "comp/input",
+    "comp/link",
+    "comp/multiselect",
+    "comp/option",
+    "comp/select",
+    "comp/tag",
+    "comp/text",
+    "semantic/dark",
+    "red_dog_moped/light",
+    "red_dog_moped/dark"
+  ]
+}
