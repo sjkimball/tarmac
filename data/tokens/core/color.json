@@ -1,5 +1,46 @@
 {
   "color": {
+    "moss": {
+      "100": {
+        "value": "#d3d8cd",
+        "type": "color",
+        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.45:1 against background #ffffff"
+      },
+      "200": {
+        "value": "#aeb8a4",
+        "type": "color",
+        "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.05:1 against background #ffffff"
+      },
+      "300": {
+        "value": "#8b997c",
+        "type": "color",
+        "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.02:1 against background #ffffff"
+      },
+      "400": {
+        "value": "#6e7a5f",
+        "type": "color",
+        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.54:1 against background #ffffff"
+      },
+      "500": {
+        "value": "#535c48",
+        "type": "color",
+        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 7:1 against background #ffffff"
+      },
+      "600": {
+        "value": "#393f31",
+        "type": "color",
+        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 10.86:1 against background #ffffff"
+      },
+      "700": {
+        "value": "#333a2d",
+        "type": "color",
+        "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 11.86:1 against background #ffffff"
+      },
+      "base": {
+        "value": "#7f8e6e",
+        "type": "color"
+      }
+    },
     "cool_blue": {
       "100": {
         "value": "#bad9e3",

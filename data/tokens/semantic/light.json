@@ -380,23 +380,23 @@
     },
     "primary": {
       "default": {
-        "value": "{color.teal.400}",
+        "value": "{color.moss.400}",
         "type": "color"
       },
       "emphasized": {
-        "value": "{color.teal.500}",
+        "value": "{color.moss.500}",
         "type": "color"
       },
       "strong": {
-        "value": "{color.teal.600}",
+        "value": "{color.moss.600}",
         "type": "color"
       },
       "muted": {
-        "value": "{color.teal.200}",
+        "value": "{color.moss.200}",
         "type": "color"
       },
       "subtle": {
-        "value": "{color.teal.100}",
+        "value": "{color.moss.100}",
         "type": "color"
       },
       "on-primary": {
