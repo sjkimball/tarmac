@@ -1589,47 +1589,47 @@
     "font-family": {
       "typography": {
         "headlines": {
-          "value": "{font-family.proximaNova}",
+          "value": "{font-family.montserrat}",
           "type": "fontFamilies"
         },
         "headings": {
-          "value": "{font-family.proximaNova}",
+          "value": "{font-family.montserrat}",
           "type": "fontFamilies"
         },
         "subheadings": {
-          "value": "{font-family.proximaNova}",
+          "value": "{font-family.montserrat}",
           "type": "fontFamilies"
         },
         "body": {
-          "value": "{font-family.proximaNova}",
+          "value": "{font-family.montserrat}",
           "type": "fontFamilies"
         }
       },
       "actions": {
-        "value": "{font-family.proximaNova}",
+        "value": "{font-family.montserrat}",
         "type": "fontFamilies"
       },
       "status": {
-        "value": "{font-family.proximaNova}",
+        "value": "{font-family.montserrat}",
         "type": "fontFamilies"
       },
       "inputs": {
-        "value": "{font-family.proximaNova}",
+        "value": "{font-family.montserrat}",
         "type": "fontFamilies"
       },
       "feedback": {
-        "value": "{font-family.proximaNova}",
+        "value": "{font-family.montserrat}",
         "type": "fontFamilies"
       },
       "tables": {
-        "value": "{font-family.proximaNova}",
+        "value": "{font-family.montserrat}",
         "type": "fontFamilies"
       }
     },
     "font-weight": {
       "typography": {
         "headlines": {
-          "value": "{font-weight.black}",
+          "value": "{font-weight.bold}",
           "type": "fontWeights"
         },
         "headings": {
@@ -1653,10 +1653,6 @@
           }
         },
         "body": {
-          "light": {
-            "value": "{font-weight.light}",
-            "type": "fontWeights"
-          },
           "regular": {
             "value": "{font-weight.regular}",
             "type": "fontWeights"
