@@ -1,1 +1,46 @@
-{}
+{
+  "primary": {
+    "default": {
+      "value": "{color.cool_blue.400}",
+      "type": "color"
+    },
+    "emphasized": {
+      "value": "{color.cool_blue.500}",
+      "type": "color"
+    },
+    "strong": {
+      "value": "{color.cool_blue.600}",
+      "type": "color"
+    },
+    "muted": {
+      "value": "{color.cool_blue.200}",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "{color.cool_blue.100}",
+      "type": "color"
+    }
+  },
+  "secondary": {
+    "default": {
+      "value": "{color.maroon.400}",
+      "type": "color"
+    },
+    "emphasized": {
+      "value": "{color.maroon.500}",
+      "type": "color"
+    },
+    "strong": {
+      "value": "{color.maroon.600}",
+      "type": "color"
+    },
+    "muted": {
+      "value": "{color.maroon.200}",
+      "type": "color"
+    },
+    "subtle": {
+      "value": "{color.maroon.100}",
+      "type": "color"
+    }
+  }
+}
