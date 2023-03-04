@@ -1,23 +1,15 @@
 {
   "font-weight": {
-    "light": {
-      "value": "Light",
-      "type": "fontWeights"
-    },
     "regular": {
       "value": "Regular",
       "type": "fontWeights"
     },
+    "semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
     "bold": {
       "value": "Bold",
-      "type": "fontWeights"
-    },
-    "black": {
-      "value": "Black",
-      "type": "fontWeights"
-    },
-    "heavy": {
-      "value": "Heavy",
       "type": "fontWeights"
     }
   }
