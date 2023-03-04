@@ -27,6 +27,12 @@
     "comp/text",
     "semantic/dark",
     "apn/light",
-    "apn/dark"
+    "apn/dark",
+    "breakpoint/xs",
+    "breakpoint/sm",
+    "breakpoint/md",
+    "breakpoint/lg",
+    "breakpoint/xl",
+    "breakpoint/xxl"
   ]
 }

@@ -27,7 +27,13 @@
       "core/line-height": "source",
       "core/paragraph-spacing": "source",
       "core/text-case": "source",
-      "semantic/light": "source"
+      "semantic/light": "source",
+      "breakpoint/xs": "disabled",
+      "breakpoint/sm": "disabled",
+      "breakpoint/md": "disabled",
+      "breakpoint/lg": "disabled",
+      "breakpoint/xl": "disabled",
+      "breakpoint/xxl": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -60,7 +66,13 @@
       "comp/tag": "enabled",
       "comp/text": "enabled",
       "apn/dark": "enabled",
-      "semantic/dark": "source"
+      "semantic/dark": "source",
+      "breakpoint/xs": "disabled",
+      "breakpoint/sm": "disabled",
+      "breakpoint/md": "disabled",
+      "breakpoint/lg": "disabled",
+      "breakpoint/xl": "disabled",
+      "breakpoint/xxl": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -93,7 +105,13 @@
       "comp/select": "enabled",
       "comp/tag": "enabled",
       "comp/text": "enabled",
-      "apn/light": "enabled"
+      "apn/light": "enabled",
+      "breakpoint/xs": "disabled",
+      "breakpoint/sm": "disabled",
+      "breakpoint/md": "disabled",
+      "breakpoint/lg": "disabled",
+      "breakpoint/xl": "disabled",
+      "breakpoint/xxl": "disabled"
     },
     "$figmaStyleReferences": {}
   }
