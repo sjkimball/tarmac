@@ -1848,35 +1848,35 @@
     },
     "font-nRatio": {
       "headlines": {
-        "value": "{font-nRatio.proximaNova}",
+        "value": "{font-nRatio.montserrat}",
         "type": "other"
       },
       "headings": {
-        "value": "{font-nRatio.proximaNova}",
+        "value": "{font-nRatio.montserrat}",
         "type": "other"
       },
       "subheadings": {
-        "value": "{font-nRatio.proximaNova}",
+        "value": "{font-nRatio.montserrat}",
         "type": "other"
       },
       "body": {
-        "value": "{font-nRatio.proximaNova}",
+        "value": "{font-nRatio.montserrat}",
         "type": "other"
       },
       "inputs": {
-        "value": "{font-nRatio.proximaNova}",
+        "value": "{font-nRatio.montserrat}",
         "type": "other"
       },
       "tables": {
-        "value": "{font-nRatio.proximaNova}",
+        "value": "{font-nRatio.montserrat}",
         "type": "other"
       },
       "actions": {
-        "value": "{font-nRatio.proximaNova}",
+        "value": "{font-nRatio.montserrat}",
         "type": "other"
       },
       "status": {
-        "value": "{font-nRatio.proximaNova}",
+        "value": "{font-nRatio.montserrat}",
         "type": "other"
       }
     },
