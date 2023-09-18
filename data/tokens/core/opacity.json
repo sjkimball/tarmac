@@ -1,0 +1,24 @@
+{
+  "opacity": {
+    "12": {
+      "value": "0.12",
+      "type": "opacity"
+    },
+    "15": {
+      "value": "0.15",
+      "type": "opacity"
+    },
+    "16": {
+      "value": "0.16",
+      "type": "opacity"
+    },
+    "30": {
+      "value": "0.30",
+      "type": "opacity"
+    },
+    "08": {
+      "value": "0.08",
+      "type": "opacity"
+    }
+  }
+}
