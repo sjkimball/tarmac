@@ -3,11 +3,11 @@
     "_base": {
       "hue": {
         "primary": {
-          "value": "0",
+          "value": "197",
           "type": "color"
         },
         "secondary": {
-          "value": "197",
+          "value": "5",
           "type": "color"
         },
         "tertiary": {
@@ -19,17 +19,17 @@
           "type": "color"
         },
         "neutral-variant": {
-          "value": "0",
+          "value": "197",
           "type": "color"
         }
       },
       "saturation": {
         "primary": {
-          "value": "96%",
+          "value": "42%",
           "type": "color"
         },
         "secondary": {
-          "value": "96%",
+          "value": "100%",
           "type": "color"
         },
         "tertiary": {
@@ -150,11 +150,11 @@
     },
     "key": {
       "primary": {
-        "value": "#f20505",
+        "value": "#254c5b",
         "type": "color"
       },
       "secondary": {
-        "value": "#05f2f2",
+        "value": "#990d00",
         "type": "color"
       },
       "neutral": {

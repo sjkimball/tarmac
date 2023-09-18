@@ -274,7 +274,7 @@
   },
   {
     "id": "fa1ef13819e9d38f3b251e1a9df3cde91670e598",
-    "name": "RedDogMoped",
+    "name": "APN",
     "$figmaStyleReferences": {
       "color._base.hue.primary": "S:a692ba4c543367fb19a9a8c3be6beddd64ee8a19,",
       "color._base.hue.secondary": "S:9d7d820d0150d2aef878a237371485c6c1e1b39e,",
@@ -443,7 +443,7 @@
     },
     "selectedTokenSets": {
       "core/color": "source",
-      "overrides/brands/RedDogMoped": "enabled"
+      "overrides/brands/AviationPropertyNetwork": "enabled"
     },
     "group": "Brands"
   },
