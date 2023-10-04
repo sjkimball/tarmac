@@ -1,11 +1,11 @@
 {
   "tokenSetOrder": [
-    "core/color",
-    "core/opacity",
-    "core/font",
-    "light/primitives",
-    "dark/primitives",
-    "theme",
-    "overrides/brands/AviationPropertyNetwork"
+    "Core/color",
+    "Core/opacity",
+    "Core/font",
+    "Core/typography",
+    "Colors/light",
+    "Colors/dark",
+    "Brands/AviationPropertyNetwork"
   ]
 }

@@ -264,11 +264,13 @@
       "state-layers.on-neutral-fixed-variant.08": "S:f7f675d1a5f7c9d7bf823da9d1ee372dac255a14,"
     },
     "selectedTokenSets": {
-      "core/color": "source",
-      "core/opacity": "source",
-      "light/primitives": "enabled",
-      "core/font": "source",
-      "theme": "enabled"
+      "Core/color": "source",
+      "Core/opacity": "source",
+      "Core/font": "source",
+      "Colors/light": "enabled",
+      "Colors/dark": "disabled",
+      "Brands/AviationPropertyNetwork": "disabled",
+      "Core/typography": "enabled"
     },
     "group": "Themes"
   },
@@ -442,8 +444,13 @@
       "color.ref.neutral-variant.990": "S:2aaf463f30bfa39c0b998c92c502ca31875e54cc,"
     },
     "selectedTokenSets": {
-      "core/color": "source",
-      "overrides/brands/AviationPropertyNetwork": "enabled"
+      "Core/color": "source",
+      "Core/opacity": "disabled",
+      "Core/font": "disabled",
+      "Colors/light": "disabled",
+      "Colors/dark": "disabled",
+      "Brands/AviationPropertyNetwork": "enabled",
+      "Core/typography": "disabled"
     },
     "group": "Brands"
   },
@@ -451,7 +458,15 @@
     "id": "63b922c5f44b6843320bef5954b156ff7ab9a6f6",
     "name": "Mobile",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Core/color": "disabled",
+      "Core/opacity": "disabled",
+      "Core/font": "disabled",
+      "Colors/light": "disabled",
+      "Colors/dark": "disabled",
+      "Brands/AviationPropertyNetwork": "disabled",
+      "Core/typography": "disabled"
+    },
     "group": "Platforms"
   },
   {
@@ -459,10 +474,13 @@
     "name": "Tablet",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/color": "source",
-      "core/opacity": "source",
-      "light/primitives": "source",
-      "dark/primitives": "enabled"
+      "Core/color": "source",
+      "Core/opacity": "source",
+      "Core/font": "disabled",
+      "Colors/light": "source",
+      "Colors/dark": "enabled",
+      "Brands/AviationPropertyNetwork": "disabled",
+      "Core/typography": "disabled"
     },
     "group": "Platforms"
   },
@@ -471,10 +489,13 @@
     "name": "Desktop",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "core/color": "source",
-      "core/opacity": "source",
-      "light/primitives": "source",
-      "dark/primitives": "enabled"
+      "Core/color": "source",
+      "Core/opacity": "source",
+      "Core/font": "disabled",
+      "Colors/light": "source",
+      "Colors/dark": "enabled",
+      "Brands/AviationPropertyNetwork": "disabled",
+      "Core/typography": "disabled"
     },
     "group": "Platforms"
   },
@@ -681,11 +702,13 @@
       "elevations.5": "S:46d7b2d4f316f6ef8231334b6674468bc3358236,"
     },
     "selectedTokenSets": {
-      "core/color": "source",
-      "core/opacity": "source",
-      "dark/primitives": "enabled",
-      "theme": "enabled",
-      "core/font": "source"
+      "Core/color": "source",
+      "Core/opacity": "source",
+      "Core/font": "source",
+      "Colors/light": "disabled",
+      "Colors/dark": "enabled",
+      "Brands/AviationPropertyNetwork": "disabled",
+      "Core/typography": "enabled"
     },
     "group": "Themes"
   }
