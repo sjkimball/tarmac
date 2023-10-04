@@ -1,11 +1,11 @@
 {
   "fontFamilies": {
     "base": {
-      "headline": {
+      "display": {
         "value": "Roboto",
         "type": "fontFamilies"
       },
-      "display": {
+      "headline": {
         "value": "Roboto",
         "type": "fontFamilies"
       },
@@ -21,10 +21,86 @@
         "value": "Roboto",
         "type": "fontFamilies"
       }
+    },
+    "documentation": {
+      "display": {
+        "value": "Montserrat",
+        "type": "fontFamilies"
+      },
+      "headline": {
+        "value": "Montserrat",
+        "type": "fontFamilies"
+      },
+      "title": {
+        "value": "Montserrat",
+        "type": "fontFamilies"
+      },
+      "label": {
+        "value": "Montserrat",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "Montserrat",
+        "type": "fontFamilies"
+      }
     }
   },
   "fontSize": {
     "base": {
+      "0": {
+        "value": "{fontSize.base.1} / {fontSize.base.scale}",
+        "type": "fontSizes"
+      },
+      "1": {
+        "value": "{fontSize.base.2} / {fontSize.base.scale}",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "{fontSize.base.3} / {fontSize.base.scale}",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "{fontSize.base.root}",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "{fontSize.base.3} * {fontSize.base.scale}",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "{fontSize.base.4} * {fontSize.base.scale}",
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": "{fontSize.base.5} * {fontSize.base.scale}",
+        "type": "fontSizes"
+      },
+      "7": {
+        "value": "{fontSize.base.6} * {fontSize.base.scale}",
+        "type": "fontSizes"
+      },
+      "8": {
+        "value": "{fontSize.base.7} * {fontSize.base.scale}",
+        "type": "fontSizes"
+      },
+      "9": {
+        "value": "{fontSize.base.8} * {fontSize.base.scale}",
+        "type": "fontSizes"
+      },
+      "10": {
+        "value": "{fontSize.base.9} * {fontSize.base.scale}",
+        "type": "fontSizes"
+      },
+      "root": {
+        "value": "16",
+        "type": "fontSizes"
+      },
+      "scale": {
+        "value": "1.2",
+        "type": "fontSizes"
+      }
+    },
+    "documentation": {
       "0": {
         "value": "{fontSize.base.1} / {fontSize.base.scale}",
         "type": "fontSizes"
@@ -104,45 +180,53 @@
     }
   },
   "lineHeights": {
-    "16": {
-      "value": "16",
-      "type": "lineHeights"
+    "base": {
+      "16": {
+        "value": "16",
+        "type": "lineHeights"
+      },
+      "20": {
+        "value": "20",
+        "type": "lineHeights"
+      },
+      "24": {
+        "value": "24",
+        "type": "lineHeights"
+      },
+      "28": {
+        "value": "28",
+        "type": "lineHeights"
+      },
+      "32": {
+        "value": "32",
+        "type": "lineHeights"
+      },
+      "36": {
+        "value": "36",
+        "type": "lineHeights"
+      },
+      "40": {
+        "value": "40",
+        "type": "lineHeights"
+      },
+      "44": {
+        "value": "44",
+        "type": "lineHeights"
+      },
+      "52": {
+        "value": "52",
+        "type": "lineHeights"
+      },
+      "64": {
+        "value": "64",
+        "type": "lineHeights"
+      }
     },
-    "20": {
-      "value": "20",
-      "type": "lineHeights"
-    },
-    "24": {
-      "value": "24",
-      "type": "lineHeights"
-    },
-    "28": {
-      "value": "28",
-      "type": "lineHeights"
-    },
-    "32": {
-      "value": "32",
-      "type": "lineHeights"
-    },
-    "36": {
-      "value": "36",
-      "type": "lineHeights"
-    },
-    "40": {
-      "value": "40",
-      "type": "lineHeights"
-    },
-    "44": {
-      "value": "44",
-      "type": "lineHeights"
-    },
-    "52": {
-      "value": "52",
-      "type": "lineHeights"
-    },
-    "64": {
-      "value": "64",
-      "type": "lineHeights"
+    "documentation": {
+      "default": {
+        "value": "120%",
+        "type": "lineHeights"
+      }
     }
   },
   "fontWeights": {
@@ -180,6 +264,28 @@
           "value": "Medium",
           "type": "fontWeights"
         }
+      }
+    },
+    "documentation": {
+      "display": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "headline": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "title": {
+        "value": "Semibold",
+        "type": "fontWeights"
+      },
+      "body": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "label": {
+        "value": "Semibold",
+        "type": "fontWeights"
       }
     }
   },
