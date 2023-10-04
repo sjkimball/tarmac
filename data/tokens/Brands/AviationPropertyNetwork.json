@@ -680,47 +680,51 @@
     }
   },
   "fontFamilies": {
-    "display": {
-      "value": "Montserrat",
-      "type": "fontFamilies"
-    },
-    "headline": {
-      "value": "Montserrat",
-      "type": "fontFamilies"
-    },
-    "title": {
-      "value": "Montserrat",
-      "type": "fontFamilies"
-    },
-    "label": {
-      "value": "Montserrat",
-      "type": "fontFamilies"
-    },
-    "body": {
-      "value": "Montserrat",
-      "type": "fontFamilies"
+    "base": {
+      "display": {
+        "value": "Montserrat",
+        "type": "fontFamilies"
+      },
+      "headline": {
+        "value": "Montserrat",
+        "type": "fontFamilies"
+      },
+      "title": {
+        "value": "Montserrat",
+        "type": "fontFamilies"
+      },
+      "label": {
+        "value": "Montserrat",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "Montserrat",
+        "type": "fontFamilies"
+      }
     }
   },
   "nRatio": {
-    "display": {
-      "value": "1",
-      "type": "other"
-    },
-    "headline": {
-      "value": "1",
-      "type": "other"
-    },
-    "title": {
-      "value": "1",
-      "type": "other"
-    },
-    "label": {
-      "value": "1",
-      "type": "other"
-    },
-    "body": {
-      "value": "1",
-      "type": "other"
+    "base": {
+      "display": {
+        "value": "1",
+        "type": "other"
+      },
+      "headline": {
+        "value": "1",
+        "type": "other"
+      },
+      "title": {
+        "value": "1",
+        "type": "other"
+      },
+      "label": {
+        "value": "1",
+        "type": "other"
+      },
+      "body": {
+        "value": "1",
+        "type": "other"
+      }
     }
   }
 }
