@@ -276,7 +276,7 @@
         "type": "fontWeights"
       },
       "title": {
-        "value": "Semibold",
+        "value": "SemiBold",
         "type": "fontWeights"
       },
       "body": {
@@ -284,7 +284,7 @@
         "type": "fontWeights"
       },
       "label": {
-        "value": "Semibold",
+        "value": "SemiBold",
         "type": "fontWeights"
       }
     }
