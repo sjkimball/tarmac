@@ -278,20 +278,6 @@
           "textDecoration": "{textDecoration.none}"
         },
         "type": "typography"
-      },
-      "xsmall": {
-        "value": {
-          "fontFamily": "{fontFamilies.documentation.display}",
-          "fontWeight": "{fontWeights.documentation.display}",
-          "lineHeight": "{lineHeights.documentation.default}",
-          "fontSize": "{fontSize.documentation.7}",
-          "letterSpacing": "{letterSpacing.0}",
-          "paragraphSpacing": "{paragraphSpacing.0}",
-          "paragraphIndent": "{paragraphIndent.0}",
-          "textCase": "{textCase.none}",
-          "textDecoration": "{textDecoration.none}"
-        },
-        "type": "typography"
       }
     },
     "headline": {
