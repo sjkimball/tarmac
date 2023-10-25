@@ -24,23 +24,23 @@
     },
     "documentation": {
       "display": {
-        "value": "Montserrat",
+        "value": "Roboto",
         "type": "fontFamilies"
       },
       "headline": {
-        "value": "Montserrat",
+        "value": "Roboto",
         "type": "fontFamilies"
       },
       "title": {
-        "value": "Montserrat",
+        "value": "Roboto",
         "type": "fontFamilies"
       },
       "label": {
-        "value": "Montserrat",
+        "value": "Roboto",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Montserrat",
+        "value": "Roboto",
         "type": "fontFamilies"
       }
     }
@@ -232,38 +232,24 @@
   "fontWeights": {
     "base": {
       "display": {
-        "regular": {
-          "value": "Regular",
-          "type": "fontWeights"
-        }
+        "value": "Bold",
+        "type": "fontWeights"
       },
       "headline": {
-        "regular": {
-          "value": "Regular",
-          "type": "fontWeights"
-        }
+        "value": "SemiBold",
+        "type": "fontWeights"
       },
       "title": {
-        "regular": {
-          "value": "Regular",
-          "type": "fontWeights"
-        },
-        "medium": {
-          "value": "Medium",
-          "type": "fontWeights"
-        }
-      },
-      "body": {
-        "regular": {
-          "value": "Regular",
-          "type": "fontWeights"
-        }
+        "value": "Medium",
+        "type": "fontWeights"
       },
       "label": {
-        "medium": {
-          "value": "Medium",
-          "type": "fontWeights"
-        }
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "body": {
+        "value": "Regular",
+        "type": "fontWeights"
       }
     },
     "documentation": {
@@ -272,19 +258,19 @@
         "type": "fontWeights"
       },
       "headline": {
-        "value": "Bold",
+        "value": "SemiBold",
         "type": "fontWeights"
       },
       "title": {
-        "value": "SemiBold",
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "label": {
+        "value": "Medium",
         "type": "fontWeights"
       },
       "body": {
         "value": "Regular",
-        "type": "fontWeights"
-      },
-      "label": {
-        "value": "SemiBold",
         "type": "fontWeights"
       }
     }
