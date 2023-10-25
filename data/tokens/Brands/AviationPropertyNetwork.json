@@ -690,15 +690,15 @@
         "type": "fontFamilies"
       },
       "title": {
-        "value": "Montserrat",
+        "value": "Hind",
         "type": "fontFamilies"
       },
       "label": {
-        "value": "Montserrat",
+        "value": "Hind",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "Montserrat",
+        "value": "Hind",
         "type": "fontFamilies"
       }
     }
@@ -724,6 +724,76 @@
       "body": {
         "value": "1",
         "type": "other"
+      }
+    }
+  },
+  "base": {
+    "display": {
+      "large": {
+        "value": {
+          "fontFamily": "{fontFamilies.base.display}",
+          "fontWeight": "{fontWeights.base.display.bold}",
+          "lineHeight": "{lineHeights.base.64}",
+          "fontSize": "{fontSize.base.10} * {nRatio.base.display}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "medium": {
+        "value": {
+          "fontFamily": "{fontFamilies.base.display}",
+          "fontWeight": "{fontWeights.base.display.bold}",
+          "lineHeight": "{lineHeights.base.52}",
+          "fontSize": "{fontSize.base.9} * {nRatio.base.display}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "small": {
+        "value": {
+          "fontFamily": "{fontFamilies.base.display}",
+          "fontWeight": "{fontWeights.base.display.bold}",
+          "lineHeight": "{lineHeights.base.44}",
+          "fontSize": "{fontSize.base.8} * {nRatio.base.display}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      },
+      "xsmall": {
+        "value": {
+          "fontFamily": "{fontFamilies.base.display}",
+          "fontWeight": "{fontWeights.base.display.bold}",
+          "lineHeight": "{lineHeights.base.36}",
+          "fontSize": "{fontSize.base.7} * {nRatio.base.display}",
+          "letterSpacing": "{letterSpacing.0}",
+          "paragraphSpacing": "{paragraphSpacing.0}",
+          "paragraphIndent": "{paragraphIndent.0}",
+          "textCase": "{textCase.none}",
+          "textDecoration": "{textDecoration.none}"
+        },
+        "type": "typography"
+      }
+    }
+  },
+  "fontWeights": {
+    "base": {
+      "display": {
+        "bold": {
+          "value": "Bold",
+          "type": "fontWeights"
+        }
       }
     }
   }
