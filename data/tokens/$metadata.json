@@ -4,6 +4,7 @@
     "core/opacity",
     "core/font",
     "core/typography",
+    "primitive/color",
     "Colors/light",
     "Colors/dark",
     "Brands/AviationPropertyNetwork"
