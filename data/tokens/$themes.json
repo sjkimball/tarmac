@@ -39,7 +39,7 @@
       "core/color": "source",
       "core/opacity": "source",
       "core/font": "source",
-      "core/typography": "enabled"
+      "theme/typography": "disabled"
     },
     "group": "Core"
   },
@@ -241,8 +241,8 @@
       "core/color": "source",
       "core/opacity": "source",
       "core/font": "source",
-      "core/typography": "source",
-      "theme/light": "enabled"
+      "theme/light": "enabled",
+      "theme/typography": "disabled"
     },
     "group": "Colors"
   },
@@ -452,8 +452,8 @@
       "core/color": "source",
       "core/opacity": "source",
       "core/font": "source",
-      "core/typography": "source",
-      "theme/dark": "enabled"
+      "theme/dark": "enabled",
+      "theme/typography": "disabled"
     },
     "group": "Colors"
   },
@@ -462,11 +462,10 @@
     "name": "APN",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Brands/AviationPropertyNetwork": "enabled",
       "core/color": "source",
       "core/opacity": "source",
       "core/font": "source",
-      "core/typography": "source"
+      "theme/typography": "disabled"
     },
     "group": "Brands"
   }

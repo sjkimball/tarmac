@@ -1,181 +1,9 @@
 {
   "fontFamilies": {
-    "base": {
-      "display": {
-        "value": "Roboto",
+    "_ref": {
+      "montserrat": {
+        "value": "Montserrat",
         "type": "fontFamilies"
-      },
-      "headline": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "title": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "label": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "body": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      }
-    },
-    "documentation": {
-      "display": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "headline": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "title": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "label": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      },
-      "body": {
-        "value": "Roboto",
-        "type": "fontFamilies"
-      }
-    }
-  },
-  "fontSize": {
-    "base": {
-      "0": {
-        "value": "{fontSize.base.1} / {fontSize.base.scale}",
-        "type": "fontSizes"
-      },
-      "1": {
-        "value": "{fontSize.base.2} / {fontSize.base.scale}",
-        "type": "fontSizes"
-      },
-      "2": {
-        "value": "{fontSize.base.3} / {fontSize.base.scale}",
-        "type": "fontSizes"
-      },
-      "3": {
-        "value": "{fontSize.base.root}",
-        "type": "fontSizes"
-      },
-      "4": {
-        "value": "{fontSize.base.3} * {fontSize.base.scale}",
-        "type": "fontSizes"
-      },
-      "5": {
-        "value": "{fontSize.base.4} * {fontSize.base.scale}",
-        "type": "fontSizes"
-      },
-      "6": {
-        "value": "{fontSize.base.5} * {fontSize.base.scale}",
-        "type": "fontSizes"
-      },
-      "7": {
-        "value": "{fontSize.base.6} * {fontSize.base.scale}",
-        "type": "fontSizes"
-      },
-      "8": {
-        "value": "{fontSize.base.7} * {fontSize.base.scale}",
-        "type": "fontSizes"
-      },
-      "9": {
-        "value": "{fontSize.base.8} * {fontSize.base.scale}",
-        "type": "fontSizes"
-      },
-      "10": {
-        "value": "{fontSize.base.9} * {fontSize.base.scale}",
-        "type": "fontSizes"
-      },
-      "root": {
-        "value": "16",
-        "type": "fontSizes"
-      },
-      "scale": {
-        "value": "1.2",
-        "type": "fontSizes"
-      }
-    },
-    "documentation": {
-      "0": {
-        "value": "{fontSize.documentation.1} / {fontSize.documentation.scale}",
-        "type": "fontSizes"
-      },
-      "1": {
-        "value": "{fontSize.documentation.2} / {fontSize.documentation.scale}",
-        "type": "fontSizes"
-      },
-      "2": {
-        "value": "{fontSize.documentation.3} / {fontSize.documentation.scale}",
-        "type": "fontSizes"
-      },
-      "3": {
-        "value": "{fontSize.documentation.root}",
-        "type": "fontSizes"
-      },
-      "4": {
-        "value": "{fontSize.documentation.3} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
-      },
-      "5": {
-        "value": "{fontSize.documentation.4} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
-      },
-      "6": {
-        "value": "{fontSize.documentation.5} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
-      },
-      "7": {
-        "value": "{fontSize.documentation.6} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
-      },
-      "8": {
-        "value": "{fontSize.documentation.7} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
-      },
-      "9": {
-        "value": "{fontSize.documentation.8} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
-      },
-      "10": {
-        "value": "{fontSize.documentation.9} * {fontSize.documentation.scale}",
-        "type": "fontSizes"
-      },
-      "root": {
-        "value": "18",
-        "type": "fontSizes"
-      },
-      "scale": {
-        "value": "1.333",
-        "type": "fontSizes"
-      }
-    }
-  },
-  "nRatio": {
-    "base": {
-      "display": {
-        "value": "1",
-        "type": "other"
-      },
-      "headline": {
-        "value": "1",
-        "type": "other"
-      },
-      "body": {
-        "value": "1",
-        "type": "other"
-      },
-      "label": {
-        "value": "1",
-        "type": "other"
-      },
-      "title": {
-        "value": "1",
-        "type": "other"
       }
     }
   },
@@ -227,82 +55,52 @@
         "value": "120%",
         "type": "lineHeights"
       }
+    },
+    "_ref": {
+      "120": {
+        "value": "120%",
+        "type": "lineHeights"
+      }
     }
   },
   "fontWeights": {
-    "base": {
-      "display": {
+    "_ref": {
+      "bold": {
         "value": "Bold",
         "type": "fontWeights"
       },
-      "headline": {
+      "semiBold": {
         "value": "SemiBold",
         "type": "fontWeights"
       },
-      "title": {
+      "medium": {
         "value": "Medium",
         "type": "fontWeights"
       },
-      "label": {
-        "value": "Medium",
-        "type": "fontWeights"
-      },
-      "body": {
-        "value": "Regular",
-        "type": "fontWeights"
-      }
-    },
-    "documentation": {
-      "display": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "headline": {
-        "value": "SemiBold",
-        "type": "fontWeights"
-      },
-      "title": {
-        "value": "Medium",
-        "type": "fontWeights"
-      },
-      "label": {
-        "value": "Medium",
-        "type": "fontWeights"
-      },
-      "body": {
+      "regular": {
         "value": "Regular",
         "type": "fontWeights"
       }
     }
   },
-  "letterSpacing": {
-    "0": {
-      "value": "0%",
-      "type": "letterSpacing"
+  "nRatio": {
+    "_ref": {
+      "montserrat": {
+        "value": "1",
+        "type": "other"
+      }
     }
   },
-  "paragraphSpacing": {
-    "0": {
-      "value": "0",
-      "type": "paragraphSpacing"
-    }
-  },
-  "textCase": {
-    "none": {
-      "value": "none",
-      "type": "textCase"
-    }
-  },
-  "textDecoration": {
-    "none": {
-      "value": "none",
-      "type": "textDecoration"
-    }
-  },
-  "paragraphIndent": {
-    "0": {
-      "value": "0px",
-      "type": "dimension"
+  "typescale": {
+    "_ref": {
+      "minorThird": {
+        "value": "1.200",
+        "type": "other"
+      },
+      "perfectFourth": {
+        "value": "1.333",
+        "type": "other"
+      }
     }
   }
 }

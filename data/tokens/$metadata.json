@@ -3,11 +3,12 @@
     "core/color",
     "core/opacity",
     "core/font",
-    "core/typography",
     "primitive/color",
     "primitive/opacity",
+    "primitive/font",
     "theme/light",
     "theme/dark",
-    "Brands/AviationPropertyNetwork"
+    "theme/typography",
+    "components/button"
   ]
 }
