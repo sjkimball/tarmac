@@ -38,8 +38,7 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "core/font": "source",
-      "theme/typography": "disabled"
+      "core/font": "source"
     },
     "group": "Core"
   },
@@ -241,8 +240,7 @@
       "core/color": "source",
       "core/opacity": "source",
       "core/font": "source",
-      "theme/light": "enabled",
-      "theme/typography": "disabled"
+      "theme/light": "enabled"
     },
     "group": "Colors"
   },
@@ -452,8 +450,7 @@
       "core/color": "source",
       "core/opacity": "source",
       "core/font": "source",
-      "theme/dark": "enabled",
-      "theme/typography": "disabled"
+      "theme/dark": "enabled"
     },
     "group": "Colors"
   },
@@ -464,8 +461,7 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "core/font": "source",
-      "theme/typography": "disabled"
+      "core/font": "source"
     },
     "group": "Brands"
   }
