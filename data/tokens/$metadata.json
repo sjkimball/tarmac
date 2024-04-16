@@ -5,8 +5,8 @@
     "core/font",
     "core/typography",
     "primitive/color",
-    "Colors/light",
-    "Colors/dark",
+    "theme/light",
+    "theme/dark",
     "Brands/AviationPropertyNetwork"
   ]
 }
