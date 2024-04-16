@@ -39,8 +39,7 @@
       "core/color": "source",
       "core/opacity": "source",
       "core/font": "source",
-      "core/typography": "enabled",
-      "primitive/opacity": "disabled"
+      "core/typography": "enabled"
     },
     "group": "Core"
   },
@@ -243,8 +242,7 @@
       "core/opacity": "source",
       "core/font": "source",
       "core/typography": "source",
-      "theme/light": "enabled",
-      "primitive/opacity": "disabled"
+      "theme/light": "enabled"
     },
     "group": "Colors"
   },
@@ -455,8 +453,7 @@
       "core/opacity": "source",
       "core/font": "source",
       "core/typography": "source",
-      "theme/dark": "enabled",
-      "primitive/opacity": "disabled"
+      "theme/dark": "enabled"
     },
     "group": "Colors"
   },
@@ -469,8 +466,7 @@
       "core/color": "source",
       "core/opacity": "source",
       "core/font": "source",
-      "core/typography": "source",
-      "primitive/opacity": "disabled"
+      "core/typography": "source"
     },
     "group": "Brands"
   }
