@@ -1,11 +1,12 @@
 {
   "tokenSetOrder": [
-    "Core/color",
-    "Core/opacity",
-    "Core/font",
-    "Core/typography",
-    "Colors/light",
-    "Colors/dark",
+    "core/color",
+    "core/opacity",
+    "core/font",
+    "core/typography",
+    "primitive/color",
+    "theme/light",
+    "theme/dark",
     "Brands/AviationPropertyNetwork"
   ]
 }

@@ -36,10 +36,10 @@
       "documentation.body.small": "S:753a7b9bc875a9fcb082623f5b0abbf7f363faca,"
     },
     "selectedTokenSets": {
-      "Core/color": "source",
-      "Core/opacity": "source",
-      "Core/font": "source",
-      "Core/typography": "enabled"
+      "core/color": "source",
+      "core/opacity": "source",
+      "core/font": "source",
+      "core/typography": "enabled"
     },
     "group": "Core"
   },
@@ -88,14 +88,11 @@
       "sys.on-background": "S:b271f0b605d14045e4a63b9cb71b75e72dedd038,",
       "sys.surface": "S:a72a45ce740e81bc5246cb66bff08cc145bf5321,",
       "sys.on-surface": "S:818f97403a309e4ab118cf78fa510064a12422af,",
-      "sys.surface-variant": "S:85b39188ad9b01b51ad4de68747b3da5fb401443,",
-      "sys.on-surface-variant": "S:13af6579c1d0334e54cf2b29a29ab80ef0f52e35,",
       "sys.inverse-surface": "S:45e69376dcc4c011f9f8bb8a2f92a200a21f6661,",
       "sys.inverse-on-surface": "S:c1bcfc9eb9c25d1e802c648f19979af97099d094,",
       "sys.inverse-primary": "S:a97e2a931f3d4f2eead599df6639cb2cd531ebd0,",
       "sys.shadow": "S:9c2c979d79fc9e585a6efe937fd5f35d42f90834,",
       "sys.surface-tint": "S:bffe6a4e238afc7fbedb61108704392af7ff7592,",
-      "sys.outline-variant": "S:40db9982cba908568a0e5e7366c824ed5f01db6e,",
       "sys.scrim": "S:cc3887a6dcc4bc5a936a1a06cc11a51b421488f3,",
       "sys.surface-container-highest": "S:edd1badd19215f80cb24ebf93f0be4c5e442553a,",
       "sys.surface-container-high": "S:fb4aba2bef89d61dc8fc7261b036050e9410736c,",
@@ -241,11 +238,11 @@
       "state-layers.surface-bright.08": "S:f5c503c69c5726c72b7d99c246b51921a4992841,"
     },
     "selectedTokenSets": {
-      "Core/color": "source",
-      "Core/opacity": "source",
-      "Core/font": "source",
-      "Core/typography": "source",
-      "Colors/light": "enabled"
+      "core/color": "source",
+      "core/opacity": "source",
+      "core/font": "source",
+      "core/typography": "source",
+      "theme/light": "enabled"
     },
     "group": "Colors"
   },
@@ -452,11 +449,11 @@
       "state-layers.surface-bright.08": "S:ad0ce178ce848018e050454aa3efbf5424c4753a,"
     },
     "selectedTokenSets": {
-      "Core/color": "source",
-      "Core/opacity": "source",
-      "Core/font": "source",
-      "Colors/dark": "enabled",
-      "Core/typography": "source"
+      "core/color": "source",
+      "core/opacity": "source",
+      "core/font": "source",
+      "core/typography": "source",
+      "theme/dark": "enabled"
     },
     "group": "Colors"
   },
@@ -465,11 +462,11 @@
     "name": "APN",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core/color": "source",
       "Brands/AviationPropertyNetwork": "enabled",
-      "Core/opacity": "source",
-      "Core/font": "source",
-      "Core/typography": "source"
+      "core/color": "source",
+      "core/opacity": "source",
+      "core/font": "source",
+      "core/typography": "source"
     },
     "group": "Brands"
   }
