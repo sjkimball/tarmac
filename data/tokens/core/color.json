@@ -8,28 +8,24 @@
       "value": "#000000",
       "type": "color"
     },
-    "key": {
-      "primary": {
-        "value": "#1B558C",
+    "_keys": {
+      "darkslategray": {
+        "value": "#254c5b",
         "type": "color"
       },
-      "secondary": {
-        "value": "#8C297A",
+      "darkred": {
+        "value": "#990d00",
         "type": "color"
       },
-      "tertiary": {
-        "value": "#D9743F",
-        "type": "color"
-      },
-      "neutral": {
+      "gray": {
         "value": "#939597",
         "type": "color"
       },
-      "success": {
+      "seagreen": {
         "value": "#198754",
         "type": "color"
       },
-      "warning": {
+      "gold": {
         "value": "#ffc107",
         "type": "color"
       },
@@ -38,10 +34,158 @@
         "type": "color"
       }
     },
-    "ref": {
-      "primary": {
+    "_hsl": {
+      "hue": {
+        "darkslategray": {
+          "value": "199",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "5",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "42",
+          "type": "color"
+        },
+        "neutral": {
+          "value": "0",
+          "type": "color"
+        },
+        "neutral-variant": {
+          "value": "197",
+          "type": "color"
+        }
+      },
+      "saturation": {
+        "darkslategray": {
+          "value": "42%",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "100%",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "42%",
+          "type": "color"
+        },
+        "neutral": {
+          "value": "0%",
+          "type": "color"
+        },
+        "neutral-variant": {
+          "value": "10%",
+          "type": "color"
+        }
+      },
+      "lightness": {
+        "4": {
+          "value": "4%",
+          "type": "color"
+        },
+        "5": {
+          "value": "5%",
+          "type": "color"
+        },
+        "6": {
+          "value": "6%",
+          "type": "color"
+        },
+        "10": {
+          "value": "10%",
+          "type": "color"
+        },
+        "12": {
+          "value": "12%",
+          "type": "color"
+        },
+        "17": {
+          "value": "17%",
+          "type": "color"
+        },
+        "20": {
+          "value": "20%",
+          "type": "color"
+        },
+        "22": {
+          "value": "22%",
+          "type": "color"
+        },
+        "24": {
+          "value": "24%",
+          "type": "color"
+        },
+        "25": {
+          "value": "25%",
+          "type": "color"
+        },
+        "30": {
+          "value": "30%",
+          "type": "color"
+        },
+        "35": {
+          "value": "35%",
+          "type": "color"
+        },
         "40": {
-          "value": "#000F21",
+          "value": "40%",
+          "type": "color"
+        },
+        "50": {
+          "value": "50%",
+          "type": "color"
+        },
+        "60": {
+          "value": "60%",
+          "type": "color"
+        },
+        "70": {
+          "value": "70%",
+          "type": "color"
+        },
+        "80": {
+          "value": "80%",
+          "type": "color"
+        },
+        "87": {
+          "value": "87%",
+          "type": "color"
+        },
+        "90": {
+          "value": "90%",
+          "type": "color"
+        },
+        "92": {
+          "value": "92%",
+          "type": "color"
+        },
+        "94": {
+          "value": "94%",
+          "type": "color"
+        },
+        "95": {
+          "value": "95%",
+          "type": "color"
+        },
+        "96": {
+          "value": "96%",
+          "type": "color"
+        },
+        "98": {
+          "value": "98%",
+          "type": "color"
+        },
+        "99": {
+          "value": "99%",
+          "type": "color"
+        }
+      }
+    },
+    "_ref": {
+      "darkslategray": {
+        "40": {
+          "value": "hsla( {color._hsl.hue.darkslategray} , {color._hsl.saturation.darkslategray} , {color._hsl.lightness.4} , 1)",
           "type": "color"
         },
         "50": {

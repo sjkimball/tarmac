@@ -1,7 +1,7 @@
 {
   "sys": {
     "primary": {
-      "value": "{color.ref.primary.400}",
+      "value": "{color._ref.darkslategray.400}",
       "type": "color"
     },
     "on-primary": {
@@ -9,31 +9,31 @@
       "type": "color"
     },
     "primary-container": {
-      "value": "{color.ref.primary.900}",
+      "value": "{color._ref.darkslategray.900}",
       "type": "color"
     },
     "on-primary-container": {
-      "value": "{color.ref.primary.100}",
+      "value": "{color._ref.darkslategray.100}",
       "type": "color"
     },
     "primary-fixed": {
-      "value": "{color.ref.primary.900}",
+      "value": "{color._ref.darkslategray.900}",
       "type": "color"
     },
     "on-primary-fixed": {
-      "value": "{color.ref.primary.100}",
+      "value": "{color._ref.darkslategray.100}",
       "type": "color"
     },
     "primary-fixed-dim": {
-      "value": "{color.ref.primary.800}",
+      "value": "{color._ref.darkslategray.800}",
       "type": "color"
     },
     "on-primary-fixed-variant": {
-      "value": "{color.ref.primary.300}",
+      "value": "{color._ref.darkslategray.300}",
       "type": "color"
     },
     "secondary": {
-      "value": "{color.ref.secondary.400}",
+      "value": "{color._ref.secondary.400}",
       "type": "color"
     },
     "on-secondary": {
@@ -41,31 +41,31 @@
       "type": "color"
     },
     "secondary-container": {
-      "value": "{color.ref.secondary.900}",
+      "value": "{color._ref.secondary.900}",
       "type": "color"
     },
     "on-secondary-container": {
-      "value": "{color.ref.secondary.100}",
+      "value": "{color._ref.secondary.100}",
       "type": "color"
     },
     "secondary-fixed": {
-      "value": "{color.ref.secondary.900}",
+      "value": "{color._ref.secondary.900}",
       "type": "color"
     },
     "on-secondary-fixed": {
-      "value": "{color.ref.secondary.100}",
+      "value": "{color._ref.secondary.100}",
       "type": "color"
     },
     "secondary-fixed-dim": {
-      "value": "{color.ref.secondary.800}",
+      "value": "{color._ref.secondary.800}",
       "type": "color"
     },
     "on-secondary-fixed-variant": {
-      "value": "{color.ref.secondary.300}",
+      "value": "{color._ref.secondary.300}",
       "type": "color"
     },
     "tertiary": {
-      "value": "{color.ref.tertiary.400}",
+      "value": "{color._ref.tertiary.400}",
       "type": "color"
     },
     "on-tertiary": {
@@ -73,31 +73,31 @@
       "type": "color"
     },
     "tertiary-container": {
-      "value": "{color.ref.tertiary.900}",
+      "value": "{color._ref.tertiary.900}",
       "type": "color"
     },
     "on-tertiary-container": {
-      "value": "{color.ref.tertiary.100}",
+      "value": "{color._ref.tertiary.100}",
       "type": "color"
     },
     "tertiary-fixed": {
-      "value": "{color.ref.tertiary.900}",
+      "value": "{color._ref.tertiary.900}",
       "type": "color"
     },
     "on-tertiary-fixed": {
-      "value": "{color.ref.tertiary.100}",
+      "value": "{color._ref.tertiary.100}",
       "type": "color"
     },
     "tertiary-fixed-dim": {
-      "value": "{color.ref.tertiary.800}",
+      "value": "{color._ref.tertiary.800}",
       "type": "color"
     },
     "on-tertiary-fixed-variant": {
-      "value": "{color.ref.tertiary.300}",
+      "value": "{color._ref.tertiary.300}",
       "type": "color"
     },
     "neutral": {
-      "value": "{color.ref.neutral.400}",
+      "value": "{color._ref.neutral.400}",
       "type": "color"
     },
     "on-neutral": {
@@ -105,31 +105,31 @@
       "type": "color"
     },
     "neutral-container": {
-      "value": "{color.ref.neutral.900}",
+      "value": "{color._ref.neutral.900}",
       "type": "color"
     },
     "on-neutral-container": {
-      "value": "{color.ref.neutral.100}",
+      "value": "{color._ref.neutral.100}",
       "type": "color"
     },
     "neutral-fixed": {
-      "value": "{color.ref.neutral.900}",
+      "value": "{color._ref.neutral.900}",
       "type": "color"
     },
     "on-neutral-fixed": {
-      "value": "{color.ref.neutral.100}",
+      "value": "{color._ref.neutral.100}",
       "type": "color"
     },
     "neutral-fixed-dim": {
-      "value": "{color.ref.neutral.800}",
+      "value": "{color._ref.neutral.800}",
       "type": "color"
     },
     "on-neutral-fixed-variant": {
-      "value": "{color.ref.neutral.300}",
+      "value": "{color._ref.neutral.300}",
       "type": "color"
     },
     "success": {
-      "value": "{color.ref.success.400}",
+      "value": "{color._ref.success.400}",
       "type": "color"
     },
     "on-success": {
@@ -137,15 +137,15 @@
       "type": "color"
     },
     "success-container": {
-      "value": "{color.ref.success.900}",
+      "value": "{color._ref.success.900}",
       "type": "color"
     },
     "on-success-container": {
-      "value": "{color.ref.success.100}",
+      "value": "{color._ref.success.100}",
       "type": "color"
     },
     "warning": {
-      "value": "{color.ref.warning.400}",
+      "value": "{color._ref.warning.400}",
       "type": "color"
     },
     "on-warning": {
@@ -153,11 +153,11 @@
       "type": "color"
     },
     "warning-container": {
-      "value": "{color.ref.warning.900}",
+      "value": "{color._ref.warning.900}",
       "type": "color"
     },
     "on-warning-container": {
-      "value": "{color.ref.warning.100}",
+      "value": "{color._ref.warning.100}",
       "type": "color"
     },
     "error": {
@@ -177,43 +177,43 @@
       "type": "color"
     },
     "outline": {
-      "value": "{color.ref.neutral-variant.500}",
+      "value": "{color._ref.neutral-variant.500}",
       "type": "color"
     },
     "background": {
-      "value": "{color.ref.neutral.990}",
+      "value": "{color._ref.neutral.990}",
       "type": "color"
     },
     "on-background": {
-      "value": "{color.ref.neutral.100}",
+      "value": "{color._ref.neutral.100}",
       "type": "color"
     },
     "surface": {
-      "value": "{color.ref.neutral.980}",
+      "value": "{color._ref.neutral.980}",
       "type": "color"
     },
     "on-surface": {
-      "value": "{color.ref.neutral.100}",
+      "value": "{color._ref.neutral.100}",
       "type": "color"
     },
     "surface-variant": {
-      "value": "{color.ref.neutral-variant.900}",
+      "value": "{color._ref.neutral-variant.900}",
       "type": "color"
     },
     "on-surface-variant": {
-      "value": "{color.ref.neutral-variant.300}",
+      "value": "{color._ref.neutral-variant.300}",
       "type": "color"
     },
     "inverse-surface": {
-      "value": "{color.ref.neutral.200}",
+      "value": "{color._ref.neutral.200}",
       "type": "color"
     },
     "inverse-on-surface": {
-      "value": "{color.ref.neutral.950}",
+      "value": "{color._ref.neutral.950}",
       "type": "color"
     },
     "inverse-primary": {
-      "value": "{color.ref.primary.800}",
+      "value": "{color._ref.darkslategray.800}",
       "type": "color"
     },
     "shadow": {
@@ -221,11 +221,11 @@
       "type": "color"
     },
     "surface-tint": {
-      "value": "{color.ref.primary.400}",
+      "value": "{color._ref.darkslategray.400}",
       "type": "color"
     },
     "outline-variant": {
-      "value": "{color.ref.neutral-variant.800}",
+      "value": "{color._ref.neutral-variant.800}",
       "type": "color"
     },
     "scrim": {
@@ -233,19 +233,19 @@
       "type": "color"
     },
     "surface-container-highest": {
-      "value": "{color.ref.neutral.900}",
+      "value": "{color._ref.neutral.900}",
       "type": "color"
     },
     "surface-container-high": {
-      "value": "{color.ref.neutral.920}",
+      "value": "{color._ref.neutral.920}",
       "type": "color"
     },
     "surface-container": {
-      "value": "{color.ref.neutral.940}",
+      "value": "{color._ref.neutral.940}",
       "type": "color"
     },
     "surface-container-low": {
-      "value": "{color.ref.neutral.960}",
+      "value": "{color._ref.neutral.960}",
       "type": "color"
     },
     "surface-container-lowest": {
@@ -253,11 +253,11 @@
       "type": "color"
     },
     "surface-bright": {
-      "value": "{color.ref.neutral.980}",
+      "value": "{color._ref.neutral.980}",
       "type": "color"
     },
     "surface-dim": {
-      "value": "{color.ref.neutral.870}",
+      "value": "{color._ref.neutral.870}",
       "type": "color"
     }
   },

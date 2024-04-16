@@ -36,10 +36,10 @@
       "documentation.body.small": "S:753a7b9bc875a9fcb082623f5b0abbf7f363faca,"
     },
     "selectedTokenSets": {
-      "Core/color": "source",
-      "Core/opacity": "source",
-      "Core/font": "source",
-      "Core/typography": "enabled"
+      "core/color": "source",
+      "core/opacity": "source",
+      "core/font": "source",
+      "core/typography": "enabled"
     },
     "group": "Core"
   },
@@ -241,11 +241,11 @@
       "state-layers.surface-bright.08": "S:f5c503c69c5726c72b7d99c246b51921a4992841,"
     },
     "selectedTokenSets": {
-      "Core/color": "source",
-      "Core/opacity": "source",
-      "Core/font": "source",
-      "Core/typography": "source",
-      "Colors/light": "enabled"
+      "Colors/light": "enabled",
+      "core/color": "source",
+      "core/opacity": "source",
+      "core/font": "source",
+      "core/typography": "source"
     },
     "group": "Colors"
   },
@@ -452,11 +452,11 @@
       "state-layers.surface-bright.08": "S:ad0ce178ce848018e050454aa3efbf5424c4753a,"
     },
     "selectedTokenSets": {
-      "Core/color": "source",
-      "Core/opacity": "source",
-      "Core/font": "source",
       "Colors/dark": "enabled",
-      "Core/typography": "source"
+      "core/color": "source",
+      "core/opacity": "source",
+      "core/font": "source",
+      "core/typography": "source"
     },
     "group": "Colors"
   },
@@ -465,11 +465,11 @@
     "name": "APN",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Core/color": "source",
       "Brands/AviationPropertyNetwork": "enabled",
-      "Core/opacity": "source",
-      "Core/font": "source",
-      "Core/typography": "source"
+      "core/color": "source",
+      "core/opacity": "source",
+      "core/font": "source",
+      "core/typography": "source"
     },
     "group": "Brands"
   }
