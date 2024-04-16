@@ -29,7 +29,7 @@
         "value": "#ffc107",
         "type": "color"
       },
-      "error": {
+      "red": {
         "value": "#f20505",
         "type": "color"
       }
@@ -40,20 +40,24 @@
           "value": "199",
           "type": "color"
         },
-        "secondary": {
+        "darkred": {
           "value": "5",
           "type": "color"
         },
-        "tertiary": {
-          "value": "42",
+        "gray": {
+          "value": "210",
           "type": "color"
         },
-        "neutral": {
+        "seagreen": {
+          "value": "152",
+          "type": "color"
+        },
+        "gold": {
+          "value": "45",
+          "type": "color"
+        },
+        "red": {
           "value": "0",
-          "type": "color"
-        },
-        "neutral-variant": {
-          "value": "197",
           "type": "color"
         }
       },
@@ -62,20 +66,24 @@
           "value": "42%",
           "type": "color"
         },
-        "secondary": {
+        "darkred": {
           "value": "100%",
           "type": "color"
         },
-        "tertiary": {
-          "value": "42%",
+        "gray": {
+          "value": "2%",
           "type": "color"
         },
-        "neutral": {
-          "value": "0%",
+        "seagreen": {
+          "value": "69%",
           "type": "color"
         },
-        "neutral-variant": {
-          "value": "10%",
+        "gold": {
+          "value": "100%",
+          "type": "color"
+        },
+        "red": {
+          "value": "96%",
           "type": "color"
         }
       },
@@ -253,7 +261,7 @@
           "type": "color"
         },
         "870": {
-          "value": "hsla({color._hsl.hue.darkslategray} , {color._hsl.saturation.darkslategray} , {color._hsl.lightness.870} , 1)",
+          "value": "hsla({color._hsl.hue.darkslategray} , {color._hsl.saturation.darkslategray} , {color._hsl.lightness.87} , 1)",
           "type": "color"
         },
         "900": {
