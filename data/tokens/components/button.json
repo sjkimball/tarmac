@@ -1,1 +1,112 @@
-{}
+{
+  "button": {
+    "filled": {
+      "bg-color": {
+        "value": "{sys.secondary}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{sys.on-secondary}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{sys.on-secondary}",
+        "type": "color"
+      },
+      "disabled": {
+        "text-color": {
+          "value": "{sys.on-surface}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{sys.on-surface}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{state-layers.on-surface.12}",
+          "type": "color"
+        }
+      },
+      "state-layer": {
+        "enabled": {
+          "value": "{state-layers.on-secondary.08}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{state-layers.on-secondary.08}",
+          "type": "color"
+        },
+        "focused": {
+          "value": "{state-layers.on-secondary.12}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{state-layers.on-secondary.12}",
+          "type": "color"
+        }
+      },
+      "elevation": {
+        "hovered": {
+          "value": "{elevations.1}",
+          "type": "boxShadow"
+        }
+      }
+    },
+    "outlined": {
+      "text-color": {
+        "value": "{sys.secondary}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{sys.secondary}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{sys.outline}",
+        "type": "color"
+      },
+      "disabled": {
+        "border-color": {
+          "value": "{state-layers.on-surface.12}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{sys.on-surface}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{sys.on-surface}",
+          "type": "color"
+        }
+      },
+      "focused": {
+        "border-color": {
+          "value": "{sys.secondary}",
+          "type": "color"
+        }
+      },
+      "state-layer": {
+        "enabled": {
+          "value": "{state-layers.secondary.08}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{state-layers.secondary.08}",
+          "type": "color"
+        },
+        "focused": {
+          "value": "{state-layers.secondary.12}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{state-layers.secondary.12}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{state-layers.on-surface.12}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
