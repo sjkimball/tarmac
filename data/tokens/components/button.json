@@ -52,6 +52,108 @@
         }
       }
     },
+    "tonal": {
+      "elevation": {
+        "hovered": {
+          "value": "{elevations.1}",
+          "type": "boxShadow"
+        }
+      },
+      "bg-color": {
+        "value": "{sys.primary-container}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{sys.on-primary-container}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{sys.on-primary-container}",
+        "type": "color"
+      },
+      "disabled": {
+        "text-color": {
+          "value": "{sys.on-surface}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{sys.on-surface}",
+          "type": "color"
+        }
+      },
+      "state-layer": {
+        "enabled": {
+          "value": "{state-layers.on-primary-container.08}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{state-layers.on-primary-container.08}",
+          "type": "color"
+        },
+        "focused": {
+          "value": "{state-layers.primary-container.12}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{state-layers.primary-container.12}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{state-layers.on-surface.12}",
+          "type": "color"
+        }
+      }
+    },
+    "elevated": {
+      "default": {
+        "value": "{elevations.1}",
+        "type": "boxShadow"
+      },
+      "bg-color": {
+        "value": "{sys.surface-container-low}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{sys.primary}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{sys.primary}",
+        "type": "color"
+      },
+      "disabled": {
+        "text-color": {
+          "value": "{sys.on-surface}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{sys.on-surface}",
+          "type": "color"
+        }
+      },
+      "state-layer": {
+        "enabled": {
+          "value": "{state-layers.primary.08}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{state-layers.primary.08}",
+          "type": "color"
+        },
+        "focused": {
+          "value": "{state-layers.primary.12}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{state-layers.primary.12}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{state-layers.on-surface.12}",
+          "type": "color"
+        }
+      }
+    },
     "outlined": {
       "text-color": {
         "value": "{sys.secondary}",
@@ -107,6 +209,52 @@
           "type": "color"
         }
       }
+    },
+    "text": {
+      "text-color": {
+        "value": "{sys.primary}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{sys.primary}",
+        "type": "color"
+      },
+      "disabled": {
+        "text-color": {
+          "value": "{sys.on-surface}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{sys.on-surface}",
+          "type": "color"
+        }
+      },
+      "state-layer": {
+        "enabled": {
+          "value": "{state-layers.primary.08}",
+          "type": "color"
+        },
+        "hovered": {
+          "value": "{state-layers.primary.08}",
+          "type": "color"
+        },
+        "focused": {
+          "value": "{state-layers.primary.12}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{state-layers.primary.12}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{state-layers.on-surface.08}",
+          "type": "color"
+        }
+      }
+    },
+    "label": {
+      "value": "{base.label.large}",
+      "type": "typography"
     }
   }
 }
