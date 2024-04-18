@@ -6,8 +6,7 @@
     "selectedTokenSets": {
       "core/color": "source",
       "core/opacity": "source",
-      "core/font": "source",
-      "segmentedButton": "disabled"
+      "core/font": "source"
     },
     "group": "Core"
   },
@@ -177,8 +176,7 @@
       "core/color": "source",
       "core/opacity": "source",
       "core/font": "source",
-      "theme/light": "enabled",
-      "segmentedButton": "disabled"
+      "theme/light": "enabled"
     },
     "group": "Colors"
   },
@@ -356,8 +354,7 @@
       "core/color": "source",
       "core/opacity": "source",
       "core/font": "source",
-      "theme/dark": "enabled",
-      "segmentedButton": "disabled"
+      "theme/dark": "enabled"
     },
     "group": "Colors"
   }
