@@ -1,0 +1,60 @@
+{
+  "segButton": {
+    "border-color": {
+      "value": "{sys.outline}",
+      "type": "color"
+    },
+    "state-layers": {
+      "enabled": {
+        "value": "{state-layers.on-primary-container.08}",
+        "type": "color"
+      },
+      "hovered": {
+        "value": "{state-layers.on-primary-container.08}",
+        "type": "color"
+      },
+      "focused": {
+        "value": "{state-layers.on-primary-container.12}",
+        "type": "color"
+      },
+      "pressed": {
+        "value": "{state-layers.on-primary-container.12}",
+        "type": "color"
+      }
+    },
+    "selected": {
+      "bg-color": {
+        "value": "{sys.primary-container}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{sys.on-primary-container}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{sys.on-primary-container}",
+        "type": "color"
+      }
+    },
+    "deselected": {
+      "text-color": {
+        "value": "{sys.on-surface}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{sys.on-surface}",
+        "type": "color"
+      }
+    },
+    "disabled": {
+      "border-color": {
+        "value": "{state-layers.outline.12}",
+        "type": "color"
+      }
+    },
+    "label": {
+      "value": "{base.label.large}",
+      "type": "typography"
+    }
+  }
+}
