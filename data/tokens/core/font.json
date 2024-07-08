@@ -4,6 +4,10 @@
       "montserrat": {
         "value": "Montserrat",
         "type": "fontFamilies"
+      },
+      "hind": {
+        "value": "Hind",
+        "type": "fontFamilies"
       }
     }
   },
@@ -38,6 +42,10 @@
   "nRatio": {
     "_ref": {
       "montserrat": {
+        "value": "1",
+        "type": "other"
+      },
+      "hind": {
         "value": "1",
         "type": "other"
       }
