@@ -1,92 +1,92 @@
 {
-  "fontFamilies": {
+  "fontFamily": {
     "base": {
       "display": {
-        "value": "{fontFamilies._ref.montserrat}",
+        "value": "{fontFamily._ref.montserrat}",
         "type": "fontFamilies"
       },
       "headline": {
-        "value": "{fontFamilies._ref.montserrat}",
+        "value": "{fontFamily._ref.montserrat}",
         "type": "fontFamilies"
       },
       "title": {
-        "value": "{fontFamilies._ref.montserrat}",
+        "value": "{fontFamily._ref.montserrat}",
         "type": "fontFamilies"
       },
       "label": {
-        "value": "{fontFamilies._ref.montserrat}",
+        "value": "{fontFamily._ref.montserrat}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{fontFamilies._ref.montserrat}",
+        "value": "{fontFamily._ref.montserrat}",
         "type": "fontFamilies"
       }
     },
     "documentation": {
       "display": {
-        "value": "{fontFamilies._ref.montserrat}",
+        "value": "{fontFamily._ref.montserrat}",
         "type": "fontFamilies"
       },
       "headline": {
-        "value": "{fontFamilies._ref.montserrat}",
+        "value": "{fontFamily._ref.montserrat}",
         "type": "fontFamilies"
       },
       "title": {
-        "value": "{fontFamilies._ref.montserrat}",
+        "value": "{fontFamily._ref.montserrat}",
         "type": "fontFamilies"
       },
       "label": {
-        "value": "{fontFamilies._ref.montserrat}",
+        "value": "{fontFamily._ref.montserrat}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{fontFamilies._ref.montserrat}",
+        "value": "{fontFamily._ref.montserrat}",
         "type": "fontFamilies"
       }
     }
   },
-  "fontWeights": {
+  "fontWeight": {
     "base": {
       "display": {
-        "value": "{fontWeights._ref.bold}",
+        "value": "{fontWeight._ref.bold}",
         "type": "fontWeights"
       },
       "headline": {
-        "value": "{fontWeights._ref.semiBold}",
+        "value": "{fontWeight._ref.semiBold}",
         "type": "fontWeights"
       },
       "title": {
-        "value": "{fontWeights._ref.medium}",
+        "value": "{fontWeight._ref.medium}",
         "type": "fontWeights"
       },
       "label": {
-        "value": "{fontWeights._ref.medium}",
+        "value": "{fontWeight._ref.medium}",
         "type": "fontWeights"
       },
       "body": {
-        "value": "{fontWeights._ref.regular}",
+        "value": "{fontWeight._ref.regular}",
         "type": "fontWeights"
       }
     },
     "documentation": {
       "display": {
-        "value": "{fontWeights._ref.bold}",
+        "value": "{fontWeight._ref.bold}",
         "type": "fontWeights"
       },
       "headline": {
-        "value": "{fontWeights._ref.semiBold}",
+        "value": "{fontWeight._ref.semiBold}",
         "type": "fontWeights"
       },
       "title": {
-        "value": "{fontWeights._ref.medium}",
+        "value": "{fontWeight._ref.medium}",
         "type": "fontWeights"
       },
       "label": {
-        "value": "{fontWeights._ref.medium}",
+        "value": "{fontWeight._ref.medium}",
         "type": "fontWeights"
       },
       "body": {
-        "value": "{fontWeights._ref.regular}",
+        "value": "{fontWeight._ref.regular}",
         "type": "fontWeights"
       }
     }
@@ -247,48 +247,48 @@
       }
     }
   },
-  "lineHeights": {
+  "lineHeight": {
     "base": {
       "display": {
-        "value": "{lineHeights._ref.120}",
+        "value": "{lineHeight._ref.120}",
         "type": "lineHeights"
       },
       "headline": {
-        "value": "{lineHeights._ref.120}",
+        "value": "{lineHeight._ref.120}",
         "type": "lineHeights"
       },
       "title": {
-        "value": "{lineHeights._ref.120}",
+        "value": "{lineHeight._ref.120}",
         "type": "lineHeights"
       },
       "label": {
-        "value": "{lineHeights._ref.120}",
+        "value": "{lineHeight._ref.120}",
         "type": "lineHeights"
       },
       "body": {
-        "value": "{lineHeights._ref.120}",
+        "value": "{lineHeight._ref.120}",
         "type": "lineHeights"
       }
     },
     "documentation": {
       "display": {
-        "value": "{lineHeights._ref.120}",
+        "value": "{lineHeight._ref.120}",
         "type": "lineHeights"
       },
       "headline": {
-        "value": "{lineHeights._ref.120}",
+        "value": "{lineHeight._ref.120}",
         "type": "lineHeights"
       },
       "title": {
-        "value": "{lineHeights._ref.120}",
+        "value": "{lineHeight._ref.120}",
         "type": "lineHeights"
       },
       "label": {
-        "value": "{lineHeights._ref.120}",
+        "value": "{lineHeight._ref.120}",
         "type": "lineHeights"
       },
       "body": {
-        "value": "{lineHeights._ref.120}",
+        "value": "{lineHeight._ref.120}",
         "type": "lineHeights"
       }
     }

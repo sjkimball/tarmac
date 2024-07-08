@@ -143,8 +143,7 @@
         "fontFamily": "{fontFamily.base.label}",
         "fontWeight": "{fontWeight.base.label}",
         "lineHeight": "20px",
-        "fontSize": "{fontSize.base.2} * {nRatio.base.label}",
-        "letterSpacing": "{letterSpacing.base.title}"
+        "fontSize": "{fontSize.base.2} * {nRatio.base.label}"
       },
       "type": "typography"
     }
