@@ -10,15 +10,15 @@
         "type": "fontFamilies"
       },
       "title": {
-        "value": "{fontFamily._ref.montserrat}",
+        "value": "{fontFamily._ref.hind}",
         "type": "fontFamilies"
       },
       "label": {
-        "value": "{fontFamily._ref.montserrat}",
+        "value": "{fontFamily._ref.hind}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{fontFamily._ref.montserrat}",
+        "value": "{fontFamily._ref.hind}",
         "type": "fontFamilies"
       }
     },
@@ -32,15 +32,15 @@
         "type": "fontFamilies"
       },
       "title": {
-        "value": "{fontFamily._ref.montserrat}",
+        "value": "{fontFamily._ref.hind}",
         "type": "fontFamilies"
       },
       "label": {
-        "value": "{fontFamily._ref.montserrat}",
+        "value": "{fontFamily._ref.hind}",
         "type": "fontFamilies"
       },
       "body": {
-        "value": "{fontFamily._ref.montserrat}",
+        "value": "{fontFamily._ref.hind}",
         "type": "fontFamilies"
       }
     }
@@ -101,16 +101,16 @@
         "value": "{nRatio._ref.montserrat}",
         "type": "other"
       },
-      "body": {
-        "value": "{nRatio._ref.montserrat}",
+      "title": {
+        "value": "{nRatio._ref.hind}",
         "type": "other"
       },
       "label": {
-        "value": "{nRatio._ref.montserrat}",
+        "value": "{nRatio._ref.hind}",
         "type": "other"
       },
-      "title": {
-        "value": "{nRatio._ref.montserrat}",
+      "body": {
+        "value": "{nRatio._ref.hind}",
         "type": "other"
       }
     },
@@ -123,16 +123,16 @@
         "value": "{nRatio._ref.montserrat}",
         "type": "other"
       },
-      "body": {
-        "value": "{nRatio._ref.montserrat}",
+      "title": {
+        "value": "{nRatio._ref.hind}",
         "type": "other"
       },
       "label": {
-        "value": "{nRatio._ref.montserrat}",
+        "value": "{nRatio._ref.hind}",
         "type": "other"
       },
-      "title": {
-        "value": "{nRatio._ref.montserrat}",
+      "body": {
+        "value": "{nRatio._ref.hind}",
         "type": "other"
       }
     }

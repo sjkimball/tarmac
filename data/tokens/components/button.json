@@ -101,6 +101,62 @@
         "value": "{theme-colors.sys.secondary}",
         "type": "color"
       }
+    },
+    "elevated": {
+      "bg-color": {
+        "value": "{theme-colors.sys.surface-container-low}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{theme-colors.sys.primary}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{theme-colors.sys.primary}",
+        "type": "color"
+      },
+      "state-layer": {
+        "hover": {
+          "value": "{theme-colors.state-layers.primary.light}",
+          "type": "color"
+        },
+        "focus": {
+          "value": "{theme-colors.state-layers.primary.medium}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{theme-colors.state-layers.primary.medium}",
+          "type": "color"
+        }
+      }
+    },
+    "tonal": {
+      "bg-color": {
+        "value": "{theme-colors.sys.secondary-container}",
+        "type": "color"
+      },
+      "text-color": {
+        "value": "{theme-colors.sys.on-secondary-container}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{theme-colors.sys.on-secondary-container}",
+        "type": "color"
+      },
+      "state-layer": {
+        "hover": {
+          "value": "{theme-colors.state-layers.on-secondary-container.light}",
+          "type": "color"
+        },
+        "focus": {
+          "value": "{theme-colors.state-layers.on-secondary-container.medium}",
+          "type": "color"
+        },
+        "pressed": {
+          "value": "{theme-colors.state-layers.on-secondary-container.medium}",
+          "type": "color"
+        }
+      }
     }
   },
   "btn-spacing": {
@@ -132,6 +188,22 @@
   "btn-shadow": {
     "filled": {
       "hover": {
+        "value": "{theme-shadows.elevations.1}",
+        "type": "boxShadow"
+      }
+    },
+    "tonal": {
+      "hover": {
+        "value": "{theme-shadows.elevations.1}",
+        "type": "boxShadow"
+      }
+    },
+    "elevated": {
+      "hover": {
+        "value": "{theme-shadows.elevations.2}",
+        "type": "boxShadow"
+      },
+      "default": {
         "value": "{theme-shadows.elevations.1}",
         "type": "boxShadow"
       }
