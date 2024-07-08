@@ -13,6 +13,16 @@
         "value": "{opacity._ref.16}",
         "type": "opacity"
       }
+    },
+    "shadow": {
+      "medium": {
+        "value": "{opacity._ref.15}",
+        "type": "opacity"
+      },
+      "strong": {
+        "value": "{opacity._ref.30}",
+        "type": "opacity"
+      }
     }
   }
 }
