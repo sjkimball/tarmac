@@ -226,7 +226,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -239,7 +239,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -252,7 +252,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -267,7 +267,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -280,7 +280,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -293,7 +293,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -308,7 +308,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -321,7 +321,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -334,7 +334,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -349,7 +349,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -362,7 +362,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -375,7 +375,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -390,7 +390,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -403,7 +403,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -416,7 +416,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -431,7 +431,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -444,7 +444,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -457,7 +457,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -472,7 +472,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -485,7 +485,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -498,7 +498,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -513,7 +513,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -526,7 +526,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -539,7 +539,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -554,7 +554,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -567,7 +567,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -580,7 +580,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -595,7 +595,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -608,7 +608,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -621,7 +621,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -636,7 +636,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -649,7 +649,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -662,7 +662,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -677,7 +677,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -690,7 +690,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -703,7 +703,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -718,7 +718,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -731,7 +731,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -744,7 +744,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -759,7 +759,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -772,7 +772,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -785,7 +785,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -800,7 +800,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -813,7 +813,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -826,7 +826,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -841,7 +841,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -854,7 +854,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -867,7 +867,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -882,7 +882,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -895,7 +895,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -908,7 +908,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -923,7 +923,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -936,7 +936,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -949,7 +949,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -964,7 +964,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -977,7 +977,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -990,7 +990,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1005,7 +1005,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1018,7 +1018,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1031,7 +1031,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1046,7 +1046,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1059,7 +1059,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1072,7 +1072,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1087,7 +1087,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1100,7 +1100,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1113,7 +1113,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1128,7 +1128,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1141,7 +1141,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1154,7 +1154,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1169,7 +1169,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1182,7 +1182,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1195,7 +1195,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1210,7 +1210,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1223,7 +1223,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1236,7 +1236,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1251,7 +1251,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1264,7 +1264,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1277,7 +1277,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1292,7 +1292,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1305,7 +1305,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1318,7 +1318,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1333,7 +1333,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1346,7 +1346,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1359,7 +1359,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1374,7 +1374,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1387,7 +1387,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1400,7 +1400,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1415,7 +1415,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1428,7 +1428,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1441,7 +1441,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1456,7 +1456,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1469,7 +1469,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1482,7 +1482,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1497,7 +1497,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1510,7 +1510,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1523,7 +1523,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1538,7 +1538,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1551,7 +1551,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1564,7 +1564,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1579,7 +1579,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1592,7 +1592,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1605,7 +1605,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1620,7 +1620,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1633,7 +1633,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1646,7 +1646,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1661,7 +1661,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1674,7 +1674,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1687,7 +1687,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1702,7 +1702,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1715,7 +1715,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1728,7 +1728,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1743,7 +1743,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1756,7 +1756,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1769,7 +1769,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1784,7 +1784,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1797,7 +1797,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1810,7 +1810,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1825,7 +1825,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1838,7 +1838,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1851,7 +1851,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1866,7 +1866,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1879,7 +1879,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1892,7 +1892,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1907,7 +1907,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1920,7 +1920,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1933,7 +1933,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1948,7 +1948,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -1961,7 +1961,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -1974,7 +1974,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -1989,7 +1989,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2002,7 +2002,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2015,7 +2015,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -2030,7 +2030,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2043,7 +2043,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2056,7 +2056,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -2071,7 +2071,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2084,7 +2084,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2097,7 +2097,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -2112,7 +2112,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2125,7 +2125,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2138,7 +2138,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -2153,7 +2153,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2166,7 +2166,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2179,7 +2179,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -2194,7 +2194,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2207,7 +2207,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2220,7 +2220,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -2235,7 +2235,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2248,7 +2248,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2261,7 +2261,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -2276,7 +2276,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2289,7 +2289,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2302,7 +2302,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -2317,7 +2317,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2330,7 +2330,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2343,7 +2343,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -2358,7 +2358,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2371,7 +2371,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2384,7 +2384,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -2399,7 +2399,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2412,7 +2412,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2425,7 +2425,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -2440,7 +2440,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2453,7 +2453,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2466,7 +2466,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -2481,7 +2481,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2494,7 +2494,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2507,7 +2507,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
@@ -2522,7 +2522,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.12}",
+              "value": "{opacity._ref.12}",
               "space": "lch"
             }
           }
@@ -2535,7 +2535,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.16}",
+              "value": "{opacity._ref.16}",
               "space": "lch"
             }
           }
@@ -2548,7 +2548,7 @@
           "studio.tokens": {
             "modify": {
               "type": "alpha",
-              "value": "{opacity.08}",
+              "value": "{opacity._ref.08}",
               "space": "lch"
             }
           }
