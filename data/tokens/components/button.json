@@ -214,10 +214,18 @@
       "value": {
         "fontFamily": "{fontFamily.base.label}",
         "fontWeight": "{fontWeight.base.label}",
-        "lineHeight": "20px",
-        "fontSize": "{fontSize.base.2} * {nRatio.base.label}"
+        "fontSize": "{fontSize.base.2} * {nRatio.base.label}",
+        "lineHeight": "Auto"
       },
       "type": "typography"
+    }
+  },
+  "btn-sizing": {
+    "label": {
+      "height": {
+        "value": "20px",
+        "type": "sizing"
+      }
     }
   }
 }
