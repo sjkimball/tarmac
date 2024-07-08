@@ -9,7 +9,6 @@
     "theme/light",
     "theme/dark",
     "theme/typography",
-    "components/button",
-    "segmentedButton"
+    "components/button"
   ]
 }
