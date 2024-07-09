@@ -165,10 +165,6 @@
         "value": "24px",
         "type": "spacing"
       },
-      "padding-y": {
-        "value": "10px",
-        "type": "spacing"
-      },
       "with-icon": {
         "icon-side": {
           "value": "16px",
@@ -221,9 +217,9 @@
     }
   },
   "btn-sizing": {
-    "label": {
-      "height": {
-        "value": "20px",
+    "height": {
+      "sm": {
+        "value": "40px",
         "type": "sizing"
       }
     }
